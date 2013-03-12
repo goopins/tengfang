@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style type="text/css">
+body{font-size:14px;font-family:arial,verdana,sans-serif;line-height:25px;padding:8px 10px;margin:0;}
+pre {
+	white-space: pre-wrap; 
+	white-space: -moz-pre-wrap; 
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
+	font-size:14px;font-family:arial,verdana,sans-serif;line-height:25px;padding:8px 10px;margin:0;
+}
+.rm_line{border-top:2px solid #F1F1F1; font-size:0; margin:15px 0}
+.atchImg img{border:2px solid #c3d9ff;}
+.lnkTxt{ color:#0066CC}
+.rm_PicArea *{ font-family:Arial, sans-serif; font-size:14px;font-weight:700;}
+.fbk3{ color:#333; line-height:160%}
+.fTip{ font-size:11px; font-weight:normal;}
+
+.main { line-height: 160%; text-align: left; }
+a { text-decoration: underline; }
+a:link { color: #333399; }
+a:visited { color: #333399; }
+a:hover { color: #ff5500; }
+.tf_title{ color:red;font-weight:bold;font-size:24px; }
+</style>
+<title>腾房订阅邮件</title>
+</head>
+
+<body>
+<table width="570" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td height="55" width="568" align="center"><a href="http://nc.tengfang.net/" target="_blank" style="text-decoration:none;"><span class="tf_title">买房不吃亏，请上腾房网</span></a></td>
+  </tr>
+</table>
+	
+<table width="570" cellspacing="0" cellpadding="10" border="0" class="main">
+<tr>
+	<td bgcolor="#ffffcc">亲爱的 ###name###:<br>
+		您好！您在腾房网订阅的 ###lpname### 楼盘动态已有更新。<br><br>
+		###content###
+		<br>
+  <font style="color:red;font-weight:bold;">附：</font>如果您希望了解更详细的房地产相关信息，请登录腾房网！
+（腾房企业QQ：800019445 客服热线：0791—83806231）
+		</td>
+</tr>
+</table>
+<table width="570" cellspacing="0" cellpadding="10" border="0">
+  <tr align="center">
+    <td valign="top">
+	<p> <span class="main">
+-----------------------------------------------------------------------------------------------------</span><br>此信由腾房网系统发出，系统不接收回信，因此请勿直接回复。<br>如有任何疑问，请联系腾房客服或访问腾房网服务中心<a href="http://nc.tengfang.net/" target="_blank">http://nc.tengfang.net</a> 与我们取得联系。</p>
+      <p> Copyright 2010-2013, 版权所有 TENGFANG.NET</p>
+      <p> (腾房字 ###rand_no### 号)</p>
+	</td>
+  </tr>
+</table>
+<script language="javascript">try{var s = window.name;parent.MM[s].initIframe();}catch(e){}</script>
+
+</body></html>
